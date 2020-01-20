@@ -1,0 +1,48 @@
+// JAVA NOTAT 
+
+		OwO UwU
+
+
+	/ Klasser 
+		
+		- String
+		- System
+		- Math
+		
+		(java definerer alltid klasser med stor forbokstav 
+
+	/ Objektororientert Programering
+	
+		Modularity
+		- Gather code which exists together
+			
+			ºPackage---------------\
+				ºClass----------\
+					ºMethod--\
+
+		Encapsulation
+		- Hide details, to the extent that the code is easier to use
+
+	/ Classdecleration 
+
+		- Access modifier 
+			- Which other classes can use these
+				Public, Protected, Default, Private
+
+	/ Objekt Terminologi
+	
+		ºType
+		- Hvilke klasse ble brukt til å lage objektet
+		
+		ºBehavior
+		- Hvilke metoder kan brukes på Objektet
+
+		ºIdentity
+		- Hvilket objekt er det? (Minneadresse)
+
+		ºState
+		- Hvilke data lagrer Objektet akkurat nå
+
+		
+
+	
